@@ -1,0 +1,6 @@
+## AdaRank
+## Iteration = 500
+## Train with enqueue: Yes
+## Tolerance = 0.002
+## Max consecutive selection count = 5
+254:0.07489358714545793 254:0.03414183063973669 1026:0.06337221977865462
